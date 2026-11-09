@@ -1,0 +1,1 @@
+import{t as E}from"./main-UJA4E5RK.js";var t=class extends E{async requestReview(){throw this.unimplemented(`Not implemented on web.`)}};export{t as InAppReviewWeb};

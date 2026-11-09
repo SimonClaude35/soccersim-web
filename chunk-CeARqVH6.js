@@ -1,0 +1,1 @@
+import{t as E}from"./main-UJA4E5RK.js";var r=class extends E{async canOpenUrl(e){return{value:!0}}async openUrl(e){return window.open(e.url,`_blank`),{completed:!0}}};export{r as AppLauncherWeb};
